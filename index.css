@@ -1,0 +1,18 @@
+
+.wrapper{
+    background-color: darksalmon;
+    width: 50%;
+    height: 40%;
+    margin: auto;
+    display: flex;
+}
+#div1{
+    background-color: darkseagreen;
+    width: 30&;
+    height: 25%;
+}
+#div2{
+    background: darkturquoise;
+    width: 40%;
+    height: 34%;
+}
