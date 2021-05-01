@@ -8,11 +8,14 @@
 }
 #div1{
     background-color: darkseagreen;
-    width: 30&;
+    width: 30%;
     height: 25%;
 }
 #div2{
     background: darkturquoise;
     width: 40%;
     height: 34%;
+}
+body{
+    margin: 0;
 }
